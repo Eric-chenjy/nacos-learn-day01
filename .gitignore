@@ -1,3 +1,18 @@
+#idea本身的文件
+.idea/
+#mudules中的文件
+consumer/.mvn/
+consumer/src/test/
+consumer/target/
+consumer/.gitignore
+consumer/consumer.iml
+consumer/m*
+provider/.mvn/
+provider/src/test/
+provider/target/
+provider/.gitignore
+provider/provider.iml
+provider/m*
 # Compiled class file
 *.class
 
