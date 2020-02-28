@@ -1,10 +1,12 @@
+#git忽略文件配置(不会再进行版本控制的文件)
+
 #idea本身的文件
 .idea/
 #mudules中的文件
 consumer/.mvn/
+consumer/.gitignore
 consumer/src/test/
 consumer/target/
-consumer/.gitignore
 consumer/consumer.iml
 consumer/m*
 provider/.mvn/
